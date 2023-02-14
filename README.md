@@ -208,19 +208,19 @@ Focal length, image count, orientation, lighting setup, and average Ground Sampl
 
 The ENRICH-Aerial dataset is generated from an aerial image block of the city of Launceston, Australia. A total of 26 GCPs of size 50×50cm are positioned in the scene on flat or almost-flat surfaces at different elevations. The acquisition is performed by simulating a typical oblique aerial camera with five views: one nadir and four oblique views (forward, backward, left, and right). The oblique cameras have an angle of 45° w.r.t. the nadir direction. The five cameras are rigidly mounted on a virtual flying platform at the same altitude, with the oblique ones having a 20cm padding from the nadir camera in their viewing direction. The image acquisitions followed six parallel strips, with ten acquisition points in each track, providing a total of 300 images. A second acquisition pass orthogonal to the first one, is performed using only the nadir camera (nadir-2). This pass uses three parallel strips with 13 images each, for a total of additional 39 images. In both cases, the image overlap for the nadir images is 80% along and 60% across the track respectively. The flying heights are approximately 150m and 175m above the ground.
 
-![Sample images from the ENRICH-Aerial dataset](ENRICH-Aerial_samples.png)
+![Sample images from the ENRICH-Aerial dataset](assets/images/ENRICH-Aerial_samples.png)
 
 ### ENRICH-Square
 
 The ENRICH-Square is a ground-level dataset of a square captured by four cameras. The scene comprises facades of various monumental buildings surrounding the square, trees, and statues. A total of 54 cross pattern GCPs (size 15×15cm) are placed on the facades of the buildings at different heights. Camera 1 (25 landscape and 25 portrait images) follows a circular path of 5m radius around the center of the square with the camera watching through the center of the circle. Camera 2 follows two different circles (2m radius and 3.4m elevation, 6.25m radius and 4m elevation), looking directly toward the buildings. Camera 3 uses the same configuration as the first one (poses slightly different), the images are acquired at sunrise with a predominant orange color and strong shadows. Camera 4 follows the border of the square taking pictures of its opposite side from 1.3m above the ground.
 
-![Sample images from the ENRICH-Square dataset](ENRICH-Square_samples.png)
+![Sample images from the ENRICH-Square dataset](assets/images/ENRICH-Square_samples.png)
 
 ### ENRICH-Statue
 
 The ENRICH-Statue dataset uses the same virtual setup of ENRICH-Square, with an additional statue placed at the center of the square. In this dataset 12 cross pattern GCPs of size 2×2cm are placed directly on the statue and its basement. Four cameras acquired 200 images (50 images each). Camera 1 and Camera 3 captured landscape images rotating around the statue (radius 3.75m), looking at it slightly from the bottom. Camera 2 and Camera 4 rotate around (radius 2.25m) the statue looking at it in portrait orientation from slightly above.
 
-![Sample images from the ENRICH-Statue dataset](ENRICH-Statue_samples.png)
+![Sample images from the ENRICH-Statue dataset](assets/images/ENRICH-Statue_samples.png)
 
 
 ## Copyright & license
