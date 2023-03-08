@@ -1,5 +1,5 @@
 
-# ENRICH: multi-purposE datasets for beNchmaRking In Computer vision and pHotogrammetry
+# ENRICH: multi-purposE dataset for beNchmaRking In Computer vision and pHotogrammetry
 
 Authors:
   [Davide Marelli](http://www.ivl.disco.unimib.it/people/davide-marelli/) ¹,
@@ -237,7 +237,7 @@ Any other commercial distribution or publication of the data, in original or mod
 
 This research was supported by grants from NVIDIA and utilized NVIDIA Quadro RTX 6000.  
 This work was also partly supported by the project “AI@TN” funded by the Autonomous Province of Trento (Italy).  
-Authors are thankful to Michele Welponer (3DOM-FBK) for contributing in the preparation of an initial 3D scene afterward further elaborated and included in the ENRICH datasets.
+Authors are thankful to Michele Welponer (3DOM-FBK) for contributing in the preparation of an initial 3D scene the further elaborated and included in ENRICH.
 
 We would like to thank the authors of the 3D models used in the virtual scene of our datasets.  
 The 3D meshes have been simplified and cut for use in our datasets. All 3D models were downloaded in 2020. Source URLs, authors, licenses, and techniques used to create the models are listed here below.
@@ -326,7 +326,7 @@ If you use ENRICH, please cite it:
 
 ```BibTeX
 @article{enrich2023,
-    title = {ENRICH: multi-purposE datasets for beNchmaRking In Computer vision and pHotogrammetry},
+    title = {ENRICH: multi-purposE dataset for beNchmaRking In Computer vision and pHotogrammetry},
     author = {Marelli, Davide and Morelli, Luca and Farella, Elisa Mariarosaria and Bianco, Simone and Ciocca, Gianluigi and Remondino, Fabio},
     journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
     volume = {},
