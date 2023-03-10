@@ -15,7 +15,8 @@ Authors:
 
 Version 1
 
-[Download ENRICH](https://doi.org/10.17632/md7f7c5pzn.1)
+<!--[Download ENRICH](https://doi.org/10.17632/md7f7c5pzn.1)-->
+**Download link available soon**
 
 This file contains information about the structure and contents on the ENRICH datasets. Please refer to the related paper for information about the generation method and the purpose of ENRICH.
 
@@ -326,12 +327,13 @@ If you use ENRICH, please cite it:
 
 ```BibTeX
 @article{enrich2023,
-    title = {ENRICH: multi-purposE dataset for beNchmaRking In Computer vision and pHotogrammetry},
-    author = {Marelli, Davide and Morelli, Luca and Farella, Elisa Mariarosaria and Bianco, Simone and Ciocca, Gianluigi and Remondino, Fabio},
+    title = {ENRICH: Multi-purposE dataset for beNchmaRking In Computer vision and pHotogrammetry},
+    author = {Davide Marelli and Luca Morelli and Elisa Mariarosaria Farella and Simone Bianco and Gianluigi Ciocca and Fabio Remondino},
     journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-    volume = {},
-    pages = {},
+    volume = {198},
+    pages = {84-98},
     year = {2023},
-    doi = {}
+    issn = {0924-2716},
+    doi = {https://doi.org/10.1016/j.isprsjprs.2023.03.002}
 }
 ```
